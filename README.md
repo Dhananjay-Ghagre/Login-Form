@@ -40,7 +40,7 @@ Credits
 
 Created by Dhananjay Ghagre
 Inspired by Coding programming
-Contributions
+
 
 Contributions are welcome! If you'd like to improve this project, please create a pull request.
 
