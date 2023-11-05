@@ -44,4 +44,4 @@ Inspired by Coding programming
 
 Contributions are welcome! If you'd like to improve this project, please create a pull request.
 
-Feel free to modify and expand this README file to include more specific details about your project, such as dependencies or deployment instructions.
+Feel free to modify and expand this README file to include more specific details about project.
